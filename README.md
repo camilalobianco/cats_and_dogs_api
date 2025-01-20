@@ -68,15 +68,3 @@ This project is a simple **Streamlit** app that fetches and displays random fact
 ## **Error Handling**
 - Displays meaningful error messages for API call failures.
 - Handles missing or empty responses gracefully.
-
----
-
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## **Contributors**
-- [Your Name](https://github.com/your-profile)
-
-Feel free to contribute by submitting pull requests or reporting issues! 🐾✨
